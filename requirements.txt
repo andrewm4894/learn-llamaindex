@@ -5,4 +5,3 @@ PyMuPDF
 openai
 transformers
 Pillow
-llama-cpp-python
