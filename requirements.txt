@@ -1,0 +1,6 @@
+python-dotenv
+pinecone-client
+llama-hub
+PyMuPDF
+openai
+transformers
